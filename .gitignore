@@ -1,0 +1,13 @@
+# IDE/editor junk:
+.idea/
+.sonarlint/
+.vscode/
+
+# logs:
+logs/*
+
+#Python junk:
+*.pyc
+
+#misc:
+test.py
