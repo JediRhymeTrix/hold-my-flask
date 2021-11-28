@@ -1,6 +1,6 @@
 # nginx-gunicorn-flask with python2.7
 
-FROM python:3.9
+FROM python:3.10
 
 RUN apt update
 RUN apt install -y nginx supervisor
