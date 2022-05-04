@@ -1,5 +1,7 @@
 # Hold My FLASK
 
+_What's in your **Flask**? It could be Whiskey or Gin 🍸. But if it's an **API** in need of some TLC to reach it's true potential 🚀, then this is what you need!_
+
 Instantly turn your Python-Flask application into a production-ready docker container.
 
 No more writing and maintaining `Dockerfile` or `docker-compose`
